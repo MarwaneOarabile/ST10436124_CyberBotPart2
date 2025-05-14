@@ -52,7 +52,7 @@ jobs:
       uses: microsoft/setup-msbuild@v2
 
     - name: Restore NuGet packages
-      run: msbuild CyberBot_ST10436124.sln /t:Restore
+      run: msbuild CyberBotPart2.sln /t:Restore
 
     - name: Build solution
-      run: msbuild CyberBot_ST10436124.sln /p:Configuration=Release
+      run: msbuild CyberBotPart2.sln /p:Configuration=Release
