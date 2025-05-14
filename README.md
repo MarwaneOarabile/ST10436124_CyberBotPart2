@@ -11,7 +11,7 @@ Usage
 7. Ask your own cybersecurity-related questions
 8. Interact with CyberBot and learn essential cybersecurity tips!
 
-Github repo: https://github.com/MarwaneOarabile/CyberBot_ST10436124.git
+Github repo:https://github.com/MarwaneOarabile/ST10436124_CyberBotPart2.git
 Author:
 Name: Oarabile Marwane
 Student ID: ST10436124
