@@ -419,12 +419,7 @@ namespace CyberBotPart2
 
                         talkedAboutPhishing = true;
                     }
-                    else if (userQuestion.Contains("more") && currentTopic == "phishing" && talkedAboutPhishing)
-                    {
-                        Random rand = new Random();
-                        int index = rand.Next(phishingTips.Count);
-                        TypingEffect($"CyberBot: Here's another phishing tip - {phishingTips[index]}");
-                    }
+                    
 
                     else if (userQuestion.Contains("password"))
                     {
